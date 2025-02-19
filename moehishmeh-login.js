@@ -1,1 +1,1 @@
-console.log('this is mo(hamad)e hishmayyyyyyyyy')
+console.log('this is mo(hammad) hishmayyyyyyyyy')

@@ -1,1 +1,1 @@
-console.log(`This is Mohammad HaCeer!`)
+console.log(`This is Mohammad Hajeer!`)
