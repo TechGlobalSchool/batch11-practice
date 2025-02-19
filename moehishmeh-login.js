@@ -3,6 +3,7 @@ console.log('hello')
 //error
 //error
 //hello hello hello
+// JOHN
 //error
 //error
 //error GOD WHY GOD WHY
