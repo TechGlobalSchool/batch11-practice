@@ -1,7 +1,7 @@
 console.log("This is login to payment page");
-console.log("This is login to payment page");
-console.log("This is login to payment page");
 
 console.log('This is new test added by John Doe');
+//JOHN DOE
 
-console.log('This is another test added by John Doe');
+
+// muhhaaannnaaadddd
