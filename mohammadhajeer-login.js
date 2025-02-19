@@ -1,3 +1,9 @@
 console.log(`This is Mohammad Hajeer!`)
-console.log('Hello, I am trying to make trouble!');
 
+console.log('Hello, new line')
+
+console.log('ALL FIXED!')
+
+
+//heloo lhello hello
+// JOHN
