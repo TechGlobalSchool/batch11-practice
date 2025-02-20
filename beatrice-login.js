@@ -9,3 +9,5 @@ console.log('Hello, I am trying to make trouble!');
 // JOHN
 console.log('Trouble')
 console.log('John doe was here');
+
+console.log('STASH')
