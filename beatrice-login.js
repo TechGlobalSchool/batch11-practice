@@ -23,5 +23,14 @@ console.log('Trouble')
 console.log('John doe was here');
 
 console.log('STASH')
+// Update 2.26
+// Update 2.26
+// Update 2.26
+// Update 2.26
+// Update 2.26
+console.log('hello')
 
-// for conflict
+
+for(let i = 0; i <= 10; i++) {
+  console.log('Hello World');
+}

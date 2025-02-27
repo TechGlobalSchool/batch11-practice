@@ -1,19 +1,14 @@
-console.log('This is Baraa');
+console.log("This is Baraa");
 
-console.log('This is a newly added line of code');
+console.log("This is a newly added line of code");
 
-console.log('Trying to get a conflict')
+console.log("Trying to get a conflict");
 // JOHN
 
+console.log("omar yehya changes");
 
-
-
-// JOHN
-  
-  console.log("omar yehya changes")
-
-console.log('Tatyana changed file');
-
-
+console.log("Tatyana changed file");
 
 console.log("Baraa made these changes");
+
+console.log("Alina made changes");
