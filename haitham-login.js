@@ -1,4 +1,3 @@
-
 console.log('Haitham Laith login');
 console.log('Haitham login');
 console.log('Hello, I am trying to make trouble!');
@@ -6,4 +5,3 @@ console.log('Hello, I am trying to make trouble!');
 // JOHN
 console.log("This is Iryna");
 console.log('hi, this is my chamge')
-
