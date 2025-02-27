@@ -14,13 +14,12 @@ console.log("Hello, I am trying to make trouble!");
 //JOHN DOE
 // JOHN
 
-
-
 // Alina
 
-console.log("omar Yehya changes")
+console.log("omar Yehya changes");
 
-console.log('Tatyana changed file');
-
+console.log("Tatyana changed file");
 
 console.log("Baraa made these changes");
+
+console.log("Alina made changes");
