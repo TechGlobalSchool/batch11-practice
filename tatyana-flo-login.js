@@ -6,4 +6,6 @@ console.log('New change to make it harder!');
 console.log('HARDER!');
 // JOHN
 
+console.log("Omar's changes")
+
 console.log('Tatyana changed file');
