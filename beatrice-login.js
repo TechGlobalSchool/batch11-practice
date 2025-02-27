@@ -28,4 +28,3 @@ console.log('STASH')
 // Update 2.26
 // Update 2.26
 
-// for conflict

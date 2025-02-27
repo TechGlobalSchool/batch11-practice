@@ -44,5 +44,3 @@ console.log('hello')
 // iugewuyguyrgweiugfi
 // iugewuyguyrgweiugfi
 // iugewuyguyrgweiugfi
-
-// for conflict
