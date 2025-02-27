@@ -12,14 +12,4 @@ console.log(`But here's the thing. Being Egyptian means carrying history on your
 fought invaders, led revolutions. Strength is in my blood, it's in my people.`)
 console.log(`Yeah, I mess up. I get hurt. I fall. But I always get back up. That's what we do. That's what I do.`)
 
-
-
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
-// iugewuyguyrgweiugfi
+console.log('The END');
